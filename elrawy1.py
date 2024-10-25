@@ -13,7 +13,7 @@ api_id = '29686695'
 api_hash = '127b00ff9bc362284fcafc2587ac066a'
 
 # Initialize Telethon client
-client = TelegramClient('test1', api_id, api_hash)
+client = TelegramClient('test2', api_id, api_hash)
 
 static_keywords = [
     'banknxteg', ' aib ', ' efg ', '.com.sa',
